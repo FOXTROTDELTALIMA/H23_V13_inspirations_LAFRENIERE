@@ -22,3 +22,7 @@ C'est l'aventure de **Doku** qui se retrouve dans plusieurs corps. Il est transp
 
 >Doku côté sombre de la force
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png">
+
+# Lu Yang
+Né en 1984 à Shanghai en Chine, Lu Yang
+<img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/description.png">
