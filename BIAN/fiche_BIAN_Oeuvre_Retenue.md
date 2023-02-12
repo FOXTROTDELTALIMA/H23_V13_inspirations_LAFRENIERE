@@ -22,6 +22,3 @@ C'est l'aventure de **Doku** qui se retrouve dans plusieurs corps. Il est transp
 
 >Doku côté sombre de la force
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png">
-
->Le temple
-<img align="bottom-left" width="30%" height="30%" src="[https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png](https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/temple.png)">
