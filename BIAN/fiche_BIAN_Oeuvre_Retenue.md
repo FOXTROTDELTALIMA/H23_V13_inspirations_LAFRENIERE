@@ -25,5 +25,3 @@ C'est l'aventure de **Doku** qui se retrouve dans plusieurs corps. Il est transp
 
 >Le temple
 <img align="left" width="30%" height="30%" src="[https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png](https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/temple.png)">
-
-<img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/description.png">
