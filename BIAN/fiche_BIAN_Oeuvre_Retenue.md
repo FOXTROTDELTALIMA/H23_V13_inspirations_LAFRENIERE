@@ -6,12 +6,15 @@
 <img align="left" width="20%" height="20%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/moi.png">
 
 ##### Date
-Jeudi, 23 février 2023
+Jeudi, 2 février 2023
 
 # Description de l'oeuvre
 L'oeuvre: **_Doku The Self_**, à été réalisée par **Lu Yang** en 2022. 
-L'oeuvre est réalisée en animation 3D, projetée sur un grand écran. 
-C'est l'aventure de **Doku** qui se retrouve dans plusieurs corps. Il est transporté dans un monde de "jeu vidéo". Il va y passer un bon moment à essayé de se découvrir! Après avoir fait le tour de tous les personnages, il ne comprend toujours pas pourquoi il est là. Après s'être promené à travers la planête, une ampoule s'allume dans son cerveau! Il réalise difficilement qu'il est le centre de l'univers a.K.a, **_The Self_**! Après toute cette aventure, il se rend compte qu'il peut contrôler se qui se passe dans le monde! Ses larmes se transforment en océan agité pendant une tempête! Il est déconcerté de ce qu'il est. À la fin, il se transforme en mirroir **( le mirroir de réflection à lui-même)** et il explose en mille morceaux, sauf son cerveau.
+L'oeuvre est réalisée en animation 3D, projetée sur un grand écran.
+Elle dure 36 minutes sous formes d'un cours-métrage. L'avatar; **Doku**, est en fait une version **virtuelle** de **Lu Yang**; l'artiste de cette oeuvre.
+
+**Doku** vit dans un monde riche et entouré de la culture Bouddhiste. Il frôle la mort dans un écrasement d'avion et se réincarne en six chamans vengeurs. Ces chamans sont des différents aspects de la personnalité de **Doku a.k.a The Self a.k.a Lu Yang**. Cette aventure fait questionner sur la distinction entre la vie et la mort puisque l'aventure se passe toujours sur la fine ligne entre ces deux phases du cycle de la vie.
+À la fin du court-métrage, il y a la scène de Doku avant l'écrasement. Il regarde le petit écran devant et voit une série de catastrophe dans le monde et...son avion s'écrase, ne laissant aucun survivant, mise à part Doku!
 
 <img align="right" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/salle.png">
 # Mise en espace
