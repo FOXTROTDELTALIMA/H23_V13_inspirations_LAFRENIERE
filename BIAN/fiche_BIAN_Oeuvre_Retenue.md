@@ -23,4 +23,4 @@ Mon expérience à été très intéressante et admirante! Les techniques utilis
 # Doku
 <img align="left" width="22%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_noirceur.png">
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png">
-<img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_fluorescent.png">
+<img align="left" width="29%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_fluorescent.png">
