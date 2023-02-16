@@ -25,4 +25,6 @@ Mon expérience à été très intéressante et admirante! Les techniques utilis
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png">
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_fluorescent.png">
 
-## 
+## Résumé des images
+La première représente **Doku** qui est le **_Self_**, dans un monde sombre et frisonneux!
+
