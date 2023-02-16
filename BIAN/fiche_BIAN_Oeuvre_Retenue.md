@@ -21,7 +21,7 @@ Le tout se passe dans une salle sans lumières, projetté sur un écran de ciné
 Mon expérience à été très intéressante et admirante! Les techniques utilisées en 3D étaient très bien, malgré quelques vis cachées, mais sinon, c'était très immersif avec les effets sonores tout autour de moi et le grand écran! Les couleurs et l'histoire étaien divins! J'en ai versé une petite larme à la fin.
 
 # Doku
-<img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_noirceur.png">
+<img align="left" width="25%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_noirceur.png">
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/le_self.png">
 <img align="left" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/monde_fluorescent.png">
 
