@@ -7,7 +7,7 @@ Jeudi, 2 février 2023
 
 
 # Description de l'oeuvre
-<img align="left" width="29%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/description.png">
+<img align="right" width="29%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/description.png">
 L'oeuvre: **_Doku The Self_**, à été réalisée par **Lu Yang** en 2022. 
 L'oeuvre est réalisée en animation 3D, projetée sur un grand écran.
 Elle dure 36 minutes sous formes d'un cours-métrage. L'avatar; **Doku**, est en fait une version **virtuelle** de **Lu Yang**; l'artiste de cette oeuvre.
