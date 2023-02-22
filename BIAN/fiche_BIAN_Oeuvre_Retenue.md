@@ -2,12 +2,10 @@
 ## ELEKTRA - ARSENAL ART CONTEMPORAIN MONTRÉAL
 ### 2020 William, Montréal
 
-# Moi devant l'Arsenal à Montréal
-<img align="left" width="20%" height="20%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/moi.png">
-
 ##### Date
 Jeudi, 2 février 2023
 
+<img align="left" width="29%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/description.png">
 # Description de l'oeuvre
 L'oeuvre: **_Doku The Self_**, à été réalisée par **Lu Yang** en 2022. 
 L'oeuvre est réalisée en animation 3D, projetée sur un grand écran.
