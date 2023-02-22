@@ -19,8 +19,10 @@ Elle dure 36 minutes sous formes d'un cours-métrage. L'avatar; **Doku**, est en
 # Mise en espace
 Le tout se passe dans une salle sans lumières, projetté sur un écran de cinéma. Il y a seulement cinq bancs et le tout est à **80% immersif**! Les effets sonores et la musique sortent de partout dans la salle.
 <img align="right" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/salle.png">
-
+</br>
+</br>
 # Expérience
+<img align="right" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/moi.png">
 Mon expérience à été très intéressante et admirante! Les techniques utilisées en 3D étaient très bien, malgré quelques vis cachées, mais sinon, c'était très immersif avec les effets sonores tout autour de moi et le grand écran! Les couleurs et l'histoire étaien divins! J'en ai versé une petite larme à la fin.
 
 # Doku
