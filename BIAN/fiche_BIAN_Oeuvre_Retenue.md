@@ -13,7 +13,8 @@ Elle dure 36 minutes sous formes d'un cours-métrage. L'avatar; **Doku**, est en
 
 **Doku** vit dans un monde riche et entouré de la culture Bouddhiste. Il frôle la mort dans un écrasement d'avion et se réincarne en six chamans vengeurs. Ces chamans sont des différents aspects de la personnalité de **Doku a.k.a The Self a.k.a Lu Yang**. Cette aventure fait questionner sur la distinction entre la vie et la mort puisque l'aventure se passe toujours sur la fine ligne entre ces deux phases du cycle de la vie.
 À la fin du court-métrage, il y a la scène de Doku avant l'écrasement. Il regarde le petit écran devant et voit une série de catastrophe dans le monde et...son avion s'écrase, ne laissant aucun survivant, mise à part Doku!
-
+</br>
+</br>
 # Mise en espace
 Le tout se passe dans une salle sans lumières, projetté sur un écran de cinéma. Il y a seulement cinq bancs et le tout est à **80% immersif**! Les effets sonores et la musique sortent de partout dans la salle.
 <img align="right" width="30%" height="30%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/salle.png">
