@@ -4,7 +4,7 @@
 
 ##### Date
 Jeudi, 2 février 2023
-<img align="right" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/moi.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/BIAN/Photos/moi.png">
 
 
 # Description de l'oeuvre
