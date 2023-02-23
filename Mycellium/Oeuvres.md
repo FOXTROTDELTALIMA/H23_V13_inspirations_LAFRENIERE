@@ -44,3 +44,5 @@
 - **État de sommeil**: Respiration et aucune détection
 - **État de réveil**: En s'approchant de la structures, il ya de la lumière qui s'allume au mouvement
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
+<img align="center" width="10%" height="10%" src="">
+<img align="center" width="10%" height="10%" src="">
