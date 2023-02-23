@@ -13,6 +13,7 @@
 - **Logiciels utilisés: AfterEffect, Illustration, reaper...
 
 # Lumasol
+- Moteur
 - Sensibilisation sur l'environnement
 - Pédaler pour illuminer
 - Intéraction avec la lumière
@@ -28,7 +29,7 @@
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
 
-# Entre fungus
+# Edria
 - Intéractif et social
 - Rassembler les gens autour de structures avec des plantes pour ne faire qu'un avec la nature
 - Effets sonores féeriques
