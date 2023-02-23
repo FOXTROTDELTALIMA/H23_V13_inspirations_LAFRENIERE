@@ -3,7 +3,7 @@
 - Jeu sur la puberté d'une jeune adolescente
 - Fantastique
 - Monstres à battre
-- **Contenu multimédia: Clipstudio
+- **Contenu multimédia**: Clipstudio
 
 # Echomarine
 - Projection immersive et interactive et sensibilisation
