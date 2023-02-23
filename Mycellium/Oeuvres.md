@@ -14,7 +14,7 @@
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/animaux_echomarine.png">
-</ br>
+
 # Lumasol
 - Moteur
 - Sensibilisation sur l'environnement
@@ -25,7 +25,7 @@
 - Automne et hiver
 - À l'extérieur
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composante_principale_lumasol.png">
-</ br>
+
 # Nexum
 - Sentier illuminé intéractif
 - Imaginaire, thème marécageux
@@ -36,7 +36,7 @@
 <img align="center" width="20%" height="10%" src="">
 <img align="center" width="20%" height="10%" src="">
 <img align="center" width="20%" height="10%" src="">
-</ br>
+
 # Edria
 - Intéractif et social
 - Rassembler les gens autour de structures avec des plantes pour ne faire qu'un avec la nature
