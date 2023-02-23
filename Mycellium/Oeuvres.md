@@ -18,10 +18,11 @@
 - Pédaler pour illuminer
 - Intéraction avec la lumière
 - Arbre et vélo stationnaire
+- Charger téléphones
 - Automne et hiver
 - À l'extérieur
 
-# Boucler La Boucle
+# Nexum
 - Sentier illuminé intéractif
 - Imaginaire, thème marécageux
 - Codes QR pour animations **sensationnelles** et expérience musicale
