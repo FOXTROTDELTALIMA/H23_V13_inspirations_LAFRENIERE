@@ -34,7 +34,7 @@
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composantes_nexum.png">
-<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/logiciel_nexum.png">
+<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/logiciel_nexum.png">
 <img align="center" width="20%" height="10%" src="">
 
 # Edria
