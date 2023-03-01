@@ -36,6 +36,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_nexum.png">
+https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sentier_nexum.png">
 
 # Edria
