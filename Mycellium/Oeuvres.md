@@ -13,7 +13,11 @@
 - **Logiciels utilisés: AfterEffect, Illustration, reaper...
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
-<img align="center" width="20%" height="10%" src="">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/animaux_echomarine.png">
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_echom.png">
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+
 
 # Lumasol
 - Moteur
