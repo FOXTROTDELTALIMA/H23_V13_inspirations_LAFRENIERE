@@ -39,7 +39,7 @@ https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sentier_nexum.png">
 
-# Edria
+# Edria (Entre Fungus)
 - Intéractif et social
 - Rassembler les gens autour de structures avec des plantes pour ne faire qu'un avec la nature
 - Effets sonores féeriques
@@ -48,4 +48,5 @@ https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composantes_edria.png">
-<img align="center" width="20%" height="10%" src="">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_edria.png">
+https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
