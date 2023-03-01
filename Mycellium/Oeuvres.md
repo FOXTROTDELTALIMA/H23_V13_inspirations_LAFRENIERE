@@ -26,7 +26,7 @@
 - À l'extérieur
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composante_principale_lumasol.png">
 
-# Nexum
+# Nexum (Boucler La Boucle)
 - Sentier illuminé intéractif
 - Imaginaire, thème marécageux
 - Codes QR pour animations **sensationnelles** et expérience musicale
@@ -34,7 +34,7 @@
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composantes_nexum.png">
-<img align="left" width="10%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/logiciel_nexum.png">
+<img align="left" width="10%" height="10%" src="">
 <img align="center" width="10%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sentier_nexum.png">
 
 # Edria
