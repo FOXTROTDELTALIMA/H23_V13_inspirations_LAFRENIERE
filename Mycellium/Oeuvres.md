@@ -25,6 +25,7 @@
 - Automne et hiver
 - À l'extérieur
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composante_principale_lumasol.png">
+<img align="left" width="20%" height="10%" src"https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_lumasol.png">
 
 # Nexum (Boucler La Boucle)
 - Sentier illuminé intéractif
