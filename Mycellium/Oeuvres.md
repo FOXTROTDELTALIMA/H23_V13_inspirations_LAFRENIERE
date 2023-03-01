@@ -33,7 +33,7 @@
 - Monde magique et fantastique
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
-<img align="left" width="10%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Sh%C3%A9ma%20de%20branchement_Nexum.png">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Sh%C3%A9ma%20de%20branchement_Nexum.png">
 <img align="center" width="10%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sentier_nexum.png">
 
 # Edria
