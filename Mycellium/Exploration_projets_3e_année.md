@@ -18,12 +18,15 @@ En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir
 ### Logiciels utilisés: 
 - AfterEffect, Illustration, reaper...
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
-**Les projecteurs**
+
+### Les projecteurs (composantes techniques)
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
-**Les espèces marines**
+
+### Les espèces menacées de disparitons
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/animaux_echomarine.png">
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
-**Le shéma du projet**
+
+### La mise en espace
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_echom.png">
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
