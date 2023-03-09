@@ -11,6 +11,9 @@
 En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir pleins de défis à faire, qui seront parfois, difficiles et parfois plus faciles. Le thème du jeu est mon thème préféré, donc ça sera plus exitant!
 
 # Echomarine
+### Les créateurs
+Florence Lapierre, Natasha Abdallah, Tracy Gua, Maria Laura Coronel
+### La définition du projet
 - Projection immersive et interactive et sensibilisation
 - Petite salle
 - Kinec
