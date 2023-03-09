@@ -60,17 +60,24 @@ Si j'avais fait ce projet, je me serais sentie calme avec les sons relaxants tou
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 ## Expectations
-Je me sentirais calme et en paix avec la nature! Le fait de pédaler pour éluminer l'arbre me ferait sentir plus légère et plus calme! Je me sentirais débarassée de toutes les tensions et de l'anxiété reliés à l'école et la vie.
+Si j'avais travaillé sur ce projet, je me serais sentie calme et en paix avec la nature! Le fait de pédaler pour éluminer l'arbre me ferait sentir plus légère et plus calme! Je me sentirais débarassée de toutes les tensions et de l'anxiété reliés à l'école et la vie.
 
 # Nexum (Boucler La Boucle)
+### Les créateurs
+Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxim Des Lauriers
+### La définition du projet
 - Sentier illuminé intéractif
 - Imaginaire, thème marécageux
-- Codes QR pour animations **sensationnelles** et expérience musicale
+- Codes **QR** pour animations **sensationnelles** et expérience musicale
 - Monde magique et fantastique
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
+
+### Le shéma du trajet du projet, à l'extérieur
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_nexum.png">
 https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
+
+### Le sentier et les composantes du projet
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sentier_nexum.png">
 
 ## Expectations
