@@ -36,10 +36,13 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
 ## Expectations
-Je me sentirais calme avec les sons relaxants tout autour de moi et les animaux marins se promenant et faisant du bruits quand ils apparaîtront. Je me sentirais comme si j'étais au fond de l'océan, sans aucun bruit agressant autour. 
+Si j'avais fait ce projet, je me serais sentie calme avec les sons relaxants tout autour de moi et les animaux marins se promenant et faisant du bruits quand ils apparaîtront. Je me sentirais comme si j'étais au fond de l'océan, sans aucun bruit agressant autour. 
 
 
 # Lumasol
+### Les créateurs
+Éloise Gagné, Skayla Stimphil, Michaël Simard, Pénlope Morrisson
+### La définition du projet
 - Moteur
 - Sensibilisation sur l'environnement
 - Pédaler pour illuminer
@@ -48,7 +51,11 @@ Je me sentirais calme avec les sons relaxants tout autour de moi et les animaux 
 - Charger téléphones
 - Automne et hiver
 - À l'extérieur
+
+### Vélo stationnaire (composante principale)
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composante_principale_lumasol.png">
+
+## La mise en espace et shéma
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_lumasol.png">
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
