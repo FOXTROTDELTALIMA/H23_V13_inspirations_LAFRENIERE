@@ -58,13 +58,17 @@ https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 Je me sentirais plongée dans un monde fantastique et magique qui s'élumine au passage des personnes. Je serais calme!
 
 # Edria (Entre Fungus)
+### Créateurs
+Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe.
+### La définition du projet
 - Intéractif et social
 - Rassembler les gens autour de structures avec des plantes pour ne faire qu'un avec la nature
 - Effets sonores féeriques
 - **État de sommeil**: Respiration et aucune détection
 - **État de réveil**: En s'approchant de la structures, il ya de la lumière qui s'allume au mouvement
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
-- **Composantes technologiques
+### Une composante technologique ou une technique que je connais PAS
+
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composantes_edria.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_edria.png">
