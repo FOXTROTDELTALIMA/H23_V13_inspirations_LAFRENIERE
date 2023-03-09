@@ -15,7 +15,8 @@ En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir
 - Petite salle
 - Kinec
 - Expérience sonore
-- **Logiciels utilisés: AfterEffect, Illustration, reaper...
+### Logiciels utilisés: 
+- AfterEffect, Illustration, reaper...
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/animaux_echomarine.png">
@@ -64,11 +65,9 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 - Intéractif et social
 - Rassembler les gens autour de structures avec des plantes pour ne faire qu'un avec la nature
 - Effets sonores féeriques
-- **État de sommeil**: Respiration et aucune détection
+- **État de sommeil**: Respiration et aucune détection. **Aucune personne**.
 - **État de réveil**: En s'approchant de la structures, il ya de la lumière qui s'allume au mouvement
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
-### Une composante technologique ou une technique que je connais PAS
-
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composantes_edria.png">
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_edria.png">
