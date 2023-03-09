@@ -74,7 +74,7 @@ https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sentier_nexum.png">
 
 ## Expectations
-Je me sentirais plongée dans un monde fantastique et magique qui s'élumine au passage des personnes. Je serais calme!
+Si j'avais faite partie des ce projet, je me serais sentie plongée dans un monde fantastique et magique qui s'élumine au passage des personnes. Je serais calme!
 
 # Edria (Entre Fungus)
 ### Créateurs
