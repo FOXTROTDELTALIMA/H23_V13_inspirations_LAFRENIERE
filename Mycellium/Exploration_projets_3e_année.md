@@ -17,12 +17,13 @@ En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir
 - Expérience sonore
 ### Logiciels utilisés: 
 - AfterEffect, Illustration, reaper...
+### L'écran
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
 
 ### Les projecteurs (composantes techniques)
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
 
-### Les espèces menacées de disparitons
+### Les espèces menacées de dispariton
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/animaux_echomarine.png">
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
