@@ -1,1 +1,1 @@
-Projets des finissants en 3e année en technique Multimédia
+# Les projets en création par les étudiants et étudiantes de 3e en TIM (Technique d'intégration en Multimédia)
