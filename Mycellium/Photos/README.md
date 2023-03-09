@@ -1,1 +1,0 @@
-# Photos prises des projets
