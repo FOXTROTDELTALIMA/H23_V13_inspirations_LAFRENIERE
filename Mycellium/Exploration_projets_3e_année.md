@@ -13,9 +13,6 @@
 ### Scène
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_scene.png">
 
-### Shéma
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_shéma.png">
-
 ### Mise en espace
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_espace.png">
 
