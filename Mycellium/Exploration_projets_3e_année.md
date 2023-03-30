@@ -13,6 +13,9 @@
 ### Scène
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/zodi_scene.png">
 
+
+### Shéma
+<img align="center" width="20%" height="10%" src="">
 ## Expectations
 En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir pleins de défis à faire, qui seront parfois, difficiles et parfois plus faciles. Le thème du jeu est mon thème préféré, donc ça sera plus exitant!
 
