@@ -102,5 +102,7 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria.png">
 
+### Shéma
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria_shéma.png">
 https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+
