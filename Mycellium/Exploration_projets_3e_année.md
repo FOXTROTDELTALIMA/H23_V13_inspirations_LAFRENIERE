@@ -11,10 +11,10 @@
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_menu.png">
 
 ### Scène
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_scene.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_scene.png">
 
 ### Mise en espace
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_espace.png">
+<img align="right" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_espace.png">
 
 ## Expectations
 En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir pleins de défis à faire, qui seront parfois, difficiles et parfois plus faciles. Le thème du jeu est mon thème préféré, donc ça sera plus exitant!
