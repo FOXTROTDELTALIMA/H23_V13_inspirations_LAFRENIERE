@@ -7,15 +7,15 @@
 - Monstres à battre
 - **Contenu multimédia**: Clipstudio
 
-### Menu
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/zodigal_menu.png">
-
+### Le menu
+<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_menu.png">
 ### Scène
-<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/zodi_scene.png">
-
-
+<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_scene.png">
 ### Shéma
-<img align="center" width="20%" height="10%" src="">
+<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_shéma.png">
+### Mise en espace
+<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_espace.png">
+
 ## Expectations
 En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir pleins de défis à faire, qui seront parfois, difficiles et parfois plus faciles. Le thème du jeu est mon thème préféré, donc ça sera plus exitant!
 
@@ -62,7 +62,6 @@ Si j'avais fait ce projet, je me serais sentie calme avec les sons relaxants tou
 - À l'extérieur
 
 ### Vélo stationnaire (composante principale)
-<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/composante_principale_lumasol.png">
 
 ## La mise en espace et shéma
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_lumasol.png">
