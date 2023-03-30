@@ -62,7 +62,7 @@ Si j'avais fait ce projet, je me serais sentie calme avec les sons relaxants tou
 - Automne et hiver
 - À l'extérieur
 
-### Vélo stationnaire (composante principale)
+### Composante
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Luma_comp.png">
 
 ## La mise en espace et shéma
