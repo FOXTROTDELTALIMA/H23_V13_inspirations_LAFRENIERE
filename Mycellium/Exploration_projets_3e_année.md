@@ -87,6 +87,15 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxim Des Lauriers
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_nexum.png">
 https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html
 
+### QR
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_code.png">
+
+### Speaker
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_speaker.png">
+
+### Espace
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_espace.png">
+
 ## Expectations
 Si j'avais faite partie des ce projet, je me serais sentie plongée dans un monde fantastique et magique qui s'élumine au passage des personnes. Je serais calme!
 
