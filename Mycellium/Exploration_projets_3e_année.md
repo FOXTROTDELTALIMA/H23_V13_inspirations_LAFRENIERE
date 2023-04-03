@@ -100,6 +100,8 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 - **État de sommeil**: Respiration et aucune détection. **Aucune personne**.
 - **État de réveil**: En s'approchant de la structures, il ya de la lumière qui s'allume au mouvement
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
+
+### Edria
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria.png">
 
 ### Structure
