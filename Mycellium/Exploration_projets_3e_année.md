@@ -122,3 +122,19 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 Traitement audiovisuel
 Conception d’une expérience multimédia
 Objets interactifs
+
+# Préférences
+## 1 - Nexum
+En voyant le décor, je m'imagine un sentiment de paix et de calme, en se promenant avec une musique douce en fond. À chaque fois qu'on passe devant le capyeur, le bruit qui en sort est fantaisiste et plutôt calme. Bref, l'expérience va être intéressante. 
+
+## 2 - Lumasol
+Je m'imagine pédaler à travers une forêt calme et que que quand je passe avec mon vélo, les arbre s'allume et emet une musique magique. Pédaler pour faire illuminer un arbre et emmetre une belle musique m'intrigue beaucup. J'ai hâte de l'essayer. Ne faire qu'un avec la nature va m'aider à me détendre et calmer mon anxiété. Les lumières sont belles et le principe de pédaler pour illuminer un arbre est très intéressant. De plus, le principe de respecter la planête est un sujet qui m'intéresse beaucoup.
+
+## 3 - Edria
+Les supports et lumières sont magnifiques. Les feuilles qu'il y a autour rajoute de la beauté et les bâtons lumineux ont de très belle couleurs. passer devant les capteurs pour emmetre un son différent et une couleur différente doit être magique. Le principe de ne faire qu'un avec la nature est une sensition extraordinaire. Le calme totale avec que les bruits ambiants des oiseaux et des chutes, ou le vent dans les feuilles.
+
+## 4 - Echomarine
+En apprendre plus sur les espèces marines en extinction doit être très enrichissant. De plus, le bruit qui entoure toute la salle rend le tout plutôt immersif. Les animaux sont bien animés et leur son est correct. Selon-moi, il manque d'espèces marine et la salle est très petite, ce qui limite la vue des projecteurs à l'écran.
+
+## 5 - Zodie-gal
+Faire un mini jeu en lien avec les signes astrologiques est un sujet que je vois rarement, voir jamais dans un jeu. C'est pour cela que ça rend ce jeu plus intéressant. Mettre la puberté en scène aide les jeunes à ne pas se sentir seuls. Pourquoi en dernier, car je préfère intéragir avec une structure intéractive plutôt qu'un écran. Ça rend l'immersion encore mieux.
