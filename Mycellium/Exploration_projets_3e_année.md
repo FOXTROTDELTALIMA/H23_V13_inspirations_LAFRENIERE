@@ -115,3 +115,10 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 
 ### Structure
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria_extern.png">
+
+
+
+# Trois cours importants à la création de ce projet
+Traitement audiovisuel
+Conception d’une expérience multimédia
+Objets interactifs
