@@ -21,3 +21,12 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/lumi%C3%A8re.png
 - Maxime Des Lauriers
 
 # Année de réalisation
+Mars 2023
+
+# Description de l'oeuvre
+Nexum consiste en une oeuvre immersive et l'histoire parle d'un labyrinthe marécageux ou des lumières s'illumine quand tu passes devant. Ces lumières émettent un bruit fantaisiste de cloches et s'allume en magenta.
+
+# Type d'installation (contemplative, immersive, intéractive)
+Nexum est une installation immersive et intéractive. Intéractive parce que quand la personne pas devant une des structure, une musique va se faire entendre et les lumières vont s'allumer une apr`s l'autre, traçant un chemin le long des guirlandes. Immersive parce que il y a de la musique dans l'installation qui nous entoure.
+
+# Mise en espace
