@@ -43,7 +43,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
 ### Animaux
 <img align="center width="10%" height="5%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echo_animaux.png">
-https://tim-montmorency.com/2023/projets/Echomarine/docs/web/medias/maquette1_grand.png
+
 
 
 ## Expectations
