@@ -4,4 +4,7 @@
 ## Lieu
 
 ## Type d'exposition
-### Temporaire et extérieure
+L'exposition fut placée devant l'entrée 1 du collège et a été temporaire.
+
+# Date de la visite
+
