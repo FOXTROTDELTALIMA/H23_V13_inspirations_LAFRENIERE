@@ -35,7 +35,7 @@ Florence Lapierre, Natasha Abdallah, Tracy Gua, Maria Laura Coronel
 <img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
 
 ### Projecteurs
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
 
 ### Mise en espace
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_echom.png">
