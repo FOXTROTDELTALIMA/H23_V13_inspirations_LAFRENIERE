@@ -42,9 +42,8 @@ Florence Lapierre, Natasha Abdallah, Tracy Gua, Maria Laura Coronel
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
 ### Animaux
-<img align="center width="10%" height="5%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echo_animaux.png">
-
-
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echo_animaux.png">
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 ## Expectations
 Si j'avais fait ce projet, je me serais sentie calme avec les sons relaxants tout autour de moi et les animaux marins se promenant et faisant du bruits quand ils apparaîtront. Je me sentirais comme si j'étais au fond de l'océan, sans aucun bruit agressant autour. 
