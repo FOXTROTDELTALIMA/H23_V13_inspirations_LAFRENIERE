@@ -11,6 +11,7 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxim Des Lauriers
 - Monde magique et fantastique
 - **Idle mode**: Respiration
 - **Active mode**: Lumières clignotent aux passants
+- **Applications utilisées**: MadMapper, Rasberry, Max OSC Patcher.
 
 ### Installation temporaire
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_interne_tempo.jpg">
@@ -36,6 +37,7 @@ Si j'avais faite partie des ce projet, je me serais sentie plongée dans un mond
 # Lumasol
 ### Les créateurs
 Éloise Gagné, Skayla Stimphil, Michaël Simard, Pénlope Morrisson
+
 ### La définition du projet
 - Moteur
 - Sensibilisation sur l'environnement
@@ -45,6 +47,7 @@ Si j'avais faite partie des ce projet, je me serais sentie plongée dans un mond
 - Charger téléphones
 - Automne et hiver
 - À l'extérieur
+- **Applications**: VCV Rack Free, MadMapper, DaVinci Resolve.
 
 ### Composante
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Luma_comp.png">
@@ -69,6 +72,7 @@ Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, J
 - **État de sommeil**: Respiration et aucune détection. **Aucune personne**.
 - **État de réveil**: En s'approchant de la structures, il ya de la lumière qui s'allume au mouvement
 - **État climax**: **_4 personnes_** autour d'une structure = animation spéciale
+- **Applications utilisées**: MadMapper, 
 
 ### Edria
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Edria.png">
