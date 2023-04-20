@@ -52,9 +52,6 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/capteur.png
 ### Haut-parleurs
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_speaker.png">
 
-### Boîte à fils
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/boîte_fils.png">
-
 ### App MadMapper
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/site_MadMapper.png">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/Alexandre_Realisation_Sem4.png
