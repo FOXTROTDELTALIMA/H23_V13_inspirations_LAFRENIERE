@@ -8,13 +8,13 @@
 - **Contenu multimédia**: Clipstudio
 
 ### Mise en espace
-<img align="left" width="20%" height="5%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_espace.png">
+<img align="center" width="20%" height="5%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_espace.png">
 
 ### Le menu
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_menu.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_menu.png">
 
 ### Scène
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_scene.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Zodi_scene.png">
 
 
 ## Expectations
@@ -23,16 +23,18 @@ En entrant sur le site, je vais être exitée de jouer au jeu, car il va y avoir
 # Echomarine
 ### Les créateurs
 Florence Lapierre, Natasha Abdallah, Tracy Gua, Maria Laura Coronel
+
 ### La définition du projet
 - Projection immersive et interactive et sensibilisation
 - Petite salle
 - Kinec
 - Expérience sonore
+- 
 ### Logiciels utilisés: 
 - AfterEffect, Illustration, reaper...
 
 ### L'écran
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Echomarine.png">
 
 ### Projecteurs
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/projecteurs_echomarine.png">
@@ -63,18 +65,19 @@ Si j'avais fait ce projet, je me serais sentie calme avec les sons relaxants tou
 - À l'extérieur
 
 ### Composante
-<img align="left" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Luma_comp.png">
+<img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Luma_comp.png">
 
 ## La mise en espace et shéma
 <img align="center" width="20%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/sh%C3%A9ma_lumasol.png">
 https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
-## Expectations
+## Attentes
 Si j'avais travaillé sur ce projet, je me serais sentie calme et en paix avec la nature! Le fait de pédaler pour éluminer l'arbre me ferait sentir plus légère et plus calme! Je me sentirais débarassée de toutes les tensions et de l'anxiété reliés à l'école et la vie.
 
 # Nexum (Boucler La Boucle)
 ### Les créateurs
 Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxim Des Lauriers
+
 ### La définition du projet
 - Sentier illuminé intéractif
 - Imaginaire, thème marécageux
@@ -102,6 +105,7 @@ Si j'avais faite partie des ce projet, je me serais sentie plongée dans un mond
 # Edria (Entre Fungus)
 ### Créateurs
 Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe.
+
 ### La définition du projet
 - Intéractif et social
 - Rassembler les gens autour de structures avec des plantes pour ne faire qu'un avec la nature
