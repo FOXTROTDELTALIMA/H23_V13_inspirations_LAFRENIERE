@@ -33,3 +33,7 @@ Nexum est une installation immersive et intéractive. Intéractive parce que qua
 ## Mise en espace
 ### Vue d'ensemble
 <img align="left" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_d'ensemble.png">
+
+## Composantes et techniques
+### Capteur
+<img align="left" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_capteur.png">
