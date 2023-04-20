@@ -37,6 +37,6 @@ Nexum est une installation immersive et intéractive. Intéractive parce que qua
 ## Composantes et techniques
 ### Capteur
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_capteur.png">
-<br>
+
 ### Code QR
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_code.png">
