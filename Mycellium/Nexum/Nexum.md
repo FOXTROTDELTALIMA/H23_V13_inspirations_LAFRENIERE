@@ -35,6 +35,10 @@ Nexum est une installation immersive et intéractive. Intéractive parce que qua
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_d'ensemble.png">
 
 ## Composantes et techniques
+### Boîtiers des capteurs
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/boitiers.jpg">
+https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/boitier.jpg
+
 ### Capteur
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_capteur.png">
 
@@ -47,3 +51,14 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/capteur.png
 
 ### Haut-parleurs
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_speaker.png">
+
+### Boîte à fils
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/boîte_fils.png">
+
+### App MadMapper
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/site_MadMapper.png">
+https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/Alexandre_Realisation_Sem4.png
+
+### App Rasberry
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/site_raspberry.png.jpeg">
+https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/raspberry.png
