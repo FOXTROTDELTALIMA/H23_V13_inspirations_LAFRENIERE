@@ -30,3 +30,4 @@ Nexum consiste en une oeuvre immersive et l'histoire parle d'un labyrinthe maré
 Nexum est une installation immersive et intéractive. Intéractive parce que quand la personne pas devant une des structure, une musique va se faire entendre et les lumières vont s'allumer une apr`s l'autre, traçant un chemin le long des guirlandes. Immersive parce que il y a de la musique dans l'installation qui nous entoure.
 
 # Mise en espace
+<img align="left" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_d'ensemble.png">
