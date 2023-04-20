@@ -2,7 +2,9 @@
 ### Affiche de présentation de Mycéllium
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/affiche_expo.png">
 
+
 ## Lieu
+Collège Montmorency, entrée un.
 
 ## Type d'exposition
 L'exposition fut placée devant l'entrée 1 du collège et a été temporaire.
@@ -15,11 +17,13 @@ Le 22 mars 2023 au soir.
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_e%CC%81largie.png.jpeg">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/lumi%C3%A8re.png
 
+
 ## Nom de.s l'artiste ou de la firme
 - Sébastien Reilly
 - Sabrina Laforest
 - Alexandre Daniel
 - Maxime Des Lauriers
+
 
 ## Année de réalisation
 Mars 2023
@@ -30,9 +34,11 @@ Nexum consiste en une oeuvre immersive et l'histoire parle d'un labyrinthe maré
 ## Type d'installation (contemplative, immersive, intéractive)
 Nexum est une installation immersive et intéractive. Intéractive parce que quand la personne pas devant une des structure, une musique va se faire entendre et les lumières vont s'allumer une apr`s l'autre, traçant un chemin le long des guirlandes. Immersive parce que il y a de la musique dans l'installation qui nous entoure.
 
+
 ## Mise en espace
 ### Vue d'ensemble
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_d'ensemble.png">
+L'emplacement se trouve à l'extérieur du collège Montmorency, juste à côté de l'entrée un. Il y a beaucoup d'espace pour marcher à travers les structures.
 
 ## Composantes et techniques
 ### Boîtiers des capteurs
@@ -59,3 +65,10 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/Alexandre_Realisa
 ### App Rasberry
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/site_raspberry.png.jpeg">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/raspberry.png
+
+
+## Éléments nécessaires à la mise en exposition
+Tel que j'ai montré dans les composantes, pour que le tout fonctionne, les boîtes à fils et les capteurs sont essentiels. Les structures qui soutiennent les lumières servent au support stable pour ne pas que les lumières tombent et se cassent. Les guirlandes de lumières entre servent à relier le tout ensemble pour que la lumière passe d'une ampoule à une autre. Finalement, il faut s'assurer que tous les matériaux resistent à l'eau pour s'il pleut et pour empêcher un court circuit de se produire. C'est pour cela que les fils sont doublement protègés d'une couche de caoutchouc et qu'ils sont dissimulés en dessous des structures en métal. Le tout sera contôllé à partir d'un ordinateur dans le grand studio pour que la musique et la lumière se rendent.
+
+## Expérience vécue
+Pour un projet de finissants en TIM, 
