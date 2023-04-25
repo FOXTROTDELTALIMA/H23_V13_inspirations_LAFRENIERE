@@ -58,11 +58,11 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/capteur.png
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_speaker.png">
 
 ### App MadMapper
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/site_MadMapper.png">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/site_MadMapper.png">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/Alexandre_Realisation_Sem4.png
 
 ### App Rasberry
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/site_raspberry.png.jpeg">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/site_raspberry.png.jpeg">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/raspberry.png
 
 
