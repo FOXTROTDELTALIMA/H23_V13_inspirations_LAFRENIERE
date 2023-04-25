@@ -68,3 +68,7 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/raspberry.png
 
 ## Éléments nécessaires à la mise en exposition
 Tel que j'ai montré dans les composantes, pour que le tout fonctionne, les boîtes à fils et les capteurs sont essentiels. Les structures qui soutiennent les lumières servent au support stable pour ne pas que les lumières tombent et se cassent. Les guirlandes de lumières entre servent à relier le tout ensemble pour que la lumière passe d'une ampoule à une autre. Finalement, il faut s'assurer que tous les matériaux resistent à l'eau pour s'il pleut et pour empêcher un court circuit de se produire. C'est pour cela que les fils sont doublement protègés d'une couche de caoutchouc et qu'ils sont dissimulés en dessous des structures en métal. Le tout sera contôllé à partir d'un ordinateur dans le grand studio pour que la musique et la lumière se rendent.
+
+
+## Expérience vécue
+En somme, les projets des 3e années fut très bien présentés. J'ai aimé me promener à travers Nexum et Edria. Les sons qui m'entouraient étaient très immersifs. 
