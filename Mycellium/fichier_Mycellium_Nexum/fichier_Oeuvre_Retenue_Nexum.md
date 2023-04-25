@@ -1,7 +1,7 @@
 
 ## Nom de l'exposition et/ou de l'évènement
 ### Affiche de présentation de Mycéllium
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/affiche_expo.png">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/affiche_expo.png">
 
 
 ## Lieu
@@ -14,9 +14,7 @@ L'exposition fut placée devant l'entrée 1 du collège et a été temporaire.
 Le 22 mars 2023 au soir.
 
 ## Titre de l'oeuvre ou du dispositif
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_d'ensemble.png">
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_e%CC%81largie.png.jpeg">
-https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/lumi%C3%A8re.png
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/vue_d'ensemble.png">
 
 
 ## Nom de.s l'artiste ou de la firme
@@ -38,19 +36,19 @@ Nexum est une installation immersive et intéractive. Intéractive parce que qua
 
 ## Mise en espace
 ### Vue d'ensemble
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/vue_d'ensemble.png">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/vue_d'ensemble.png">
 L'emplacement se trouve à l'extérieur du collège Montmorency, juste à côté de l'entrée un. Il y a beaucoup d'espace pour marcher à travers les structures.
 
 ## Composantes et techniques
 ### Boîtiers des capteurs
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/boitiers.jpg">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/boitiers.jpg">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/boitier.jpg
 
 ### Capteur
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/inspirations/Nexum_capteur.png">
 
 ### Composantes du capteur
-<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/Nexum/images/capteur.png.jpeg">
+<img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/Mycellium/fichier_Mycellium_Nexum/Images/capteur.png.jpeg">
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/medias/capteur.png
 
 ### Code QR
