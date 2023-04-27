@@ -74,4 +74,4 @@ Tel que j'ai montré dans les composantes, pour que le tout fonctionne, les boî
 J'ai adoré que les lumières me suivent quand je passais devant un capteur. J'ai aussi aimé la musique qui en sortait au passage devant les capyeurs. C'était un son fantaisique et fanstastique qui m'entourait. Tout fonctionnait à merveille et le son sortait des hauts-parleurs très bien.
 - Voici une courte vidéo qui montre à quoi ressemble Nexum, avec le son et les lumières.
 ### Lien YouTube
-https://studio.youtube.com/video/ErbFbUJl34A/edit
+https://www.youtube.com/shorts/ErbFbUJl34A
