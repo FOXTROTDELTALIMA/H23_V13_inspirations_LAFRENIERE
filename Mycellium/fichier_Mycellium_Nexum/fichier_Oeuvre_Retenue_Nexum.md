@@ -74,4 +74,16 @@ Tel que j'ai montré dans les composantes, pour que le tout fonctionne, les boî
 J'ai adoré que les lumières me suivent quand je passais devant un capteur. J'ai aussi aimé la musique qui en sortait au passage devant les capyeurs. C'était un son fantaisique et fanstastique qui m'entourait. Tout fonctionnait à merveille et le son sortait des hauts-parleurs très bien.
 - Voici une courte vidéo qui montre à quoi ressemble Nexum, avec le son et les lumières.
 ### Lien YouTube
-https://www.youtube.com/shorts/ErbFbUJl34A
+[![Court-M]](https://www.youtube.com/shorts/ErbFbUJl34A)
+
+
+## Ce qui vous a plu, vous a donné des idées
+**La musique**: Cette musique m'a fait penser à une série coréenne que j'ai écoutée il y a un an! **Le nom**: _The King: Eternal Monarch_ ou, en français, _Le Roi: Monarche Éternel_. Un petit résumé: C'est l'histoire de deux personnes qui vont tomber en amour, mais ils viennent de deux dimensions différentes. Bref, cette série est fantastique, avec des créatures imaginaires, et fantaisique. Pour mon futur projet, j'avais pensé me baser sur cette série. 
+
+**Les lumières**: J'ai envie que mon projet soit aussi intéractif, comme les lumières de Nexum, mais un concept complètement différent. J'avais pensé à mettre des petits lampadaires et mettre des capteurs en dessous des lumières pour que, quand les gens passeront en-dessous de ces lumières, l'ampoule va s'allumer et faire un dégrader en arc-en-ciel. De plus, ces lumières illumineront toute la personnes et une musique magique les entourera. 
+
+Pour finir, j'ai adoré l'ensemble de l'oeuvre. La musique et les lumières se fusionnaient très bien ensembles.
+
+
+## Aspects moins aimés
+J'aurais aimé qu'il y ai un peu plus d'intéractions, par exemple, appuyer sur un bouton pour déclencher un flash ou une musique. À part cela, j'ai rien à dire de négatif.
