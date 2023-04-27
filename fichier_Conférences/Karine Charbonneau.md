@@ -3,5 +3,5 @@ Elle est la cheffe des expositions et registraire du **Studio Antimodular**. Le 
 
 ## Présentation de Rafael Lozano-Hemmer
 Il crée des platformes en utilisant la robotique, les fontaines digitales, la surveillance sur ordinateur, les murs multimédia, etc... Il est le patron du **Studio Antimodular**.
-<img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Conf%C3%A9rences/Images/Rafael.png">
+<img align="left" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Conf%C3%A9rences/Images/Rafael.png">
 
