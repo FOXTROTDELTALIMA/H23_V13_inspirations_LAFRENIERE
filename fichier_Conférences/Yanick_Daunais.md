@@ -10,3 +10,7 @@ En avant-dernière, réviser le manuel d'opération est important pour s'assurer
 Tel que mentionné plus haut, il est importants de réviser le bugjet et l'échéancier du projet. S'assurer d'être dans les temps. Donner de la marge de manoeuvre, prévoir l'imprévu et compter les coûts pour ne pas manquer d'argent ou que les créateurs puissent avoir un plan b en terme de ressources.
 
 Voici de quoi parle la conférence de Yanick Daunais, directeur et producteur du studio Halo Creation.
+
+# Liens du studio et su directeurs
+https://halo.team/
+https://www.linkedin.com/in/yanikdaunais/?original_referer=
