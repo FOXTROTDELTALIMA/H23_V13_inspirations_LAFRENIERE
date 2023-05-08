@@ -9,6 +9,7 @@
 - Extérieure
 
 [^1]<img width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/DominosWaveIngridIngrid.jpeg">
+Référence 1
 
 Cette oeuvre a été créée en **2014** par _Geneviève Levasseur_ de **Ingrid Ingrid**, une agence d'oeuvres multimédia intéractives.
 ## Type d'installation
