@@ -1,5 +1,5 @@
 # Effet Domino - Luminothérapie à Montréal
-<img align="center" width="47%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/fiche.png">
-<img align="center" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
+<img align="left" width="47%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/fiche.png">
+<img align="right" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
 
 C'est la 13e édition d'effet domino à Montréal avec 120 lumières lumineuses et musicales. C'est une expérience amusante et divertissante qui rassemble les gens et favorise un esprit de coopération. Les dominos sont répartis sur plusieurs stations. En les faisant basculer, la lumières à l'intérieur d'un domino passe à un autre et ainsi de suite dans un arc-en-ciel de couleurs pastels. Il y a aussi une petite musique qui suit. Chaque domino à son son personel. Ça peut être du chant, des percussions ou des instruments à cordes. Dans mon expérience, il n'y avait pas tous cdes sons. C'était plus une douce mélodie fantaisique.
