@@ -2,11 +2,14 @@
 ## 28 février
 <img align="left" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
 <img align="right" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
-[^1]<img width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/DominosWaveIngridIngrid.jpeg">
+
 ## Type d'exposition
 - Temporaire
 - Itinérante
 - Extérieure
+
+[^1]<img width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/DominosWaveIngridIngrid.jpeg">
+
 Cette oeuvre a été créée en **2014** par _Geneviève Levasseur_ de **Ingrid Ingrid**, une agence d'oeuvres multimédia intéractives.
 ## Type d'installation
 -Intéractive
