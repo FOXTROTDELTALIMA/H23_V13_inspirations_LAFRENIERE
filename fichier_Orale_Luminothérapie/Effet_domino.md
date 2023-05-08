@@ -4,7 +4,9 @@
 <img align="right" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
 présente une belle symphonie orchestrale. Chaque domino à un son unique, ce qui crée cette belle musique et ce bel arc-en-ciel de couleurs pastels. **Effet Dominos** est composé de 120 dominos répartis sur plusieurs tables. C'est une installation qui rassemble les gens et qui fait socialiser. Elle est présentée en hiver seulement et seulement à Montréal.
 
-[^1]<img width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/4_Remonter_PhotoNicolasGouin.jpg">
+[^1]<img align="left" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/4_Remonter_PhotoNicolasGouin.jpg">
+<img align="right" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
+
 ## Description de l'oeuvre
 C'est une oeuvre musicale et lumineuse qui 
 ## Type d'exposition
