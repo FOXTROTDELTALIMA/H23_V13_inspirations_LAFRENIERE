@@ -4,8 +4,6 @@
 
 <img align="left" width="28%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
 
-<img align="right" width="28%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
-
 <img align="left" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/4_Remonter_PhotoNicolasGouin.jpg">
 https://images.squarespace-cdn.com/content/v1/57337259e707eb22d695b849/1550870950040-V88T1Q4K7OXNLHIBOYKA/4_Remonter_PhotoNicolasGouin.jpg?format=1500w
 
