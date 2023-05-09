@@ -1,7 +1,5 @@
 # Effet Domino - Luminothérapie à Montréal
 ## 28 février
-<img align="left" width="28%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
-
 ## Description de l'oeuvre
 C'est une oeuvre musicale et lumineuse qui présente une belle symphonie orchestrale. Chaque domino à un son unique, ce qui crée cette belle musique et ce bel arc-en-ciel de couleurs pastels. **Effet Dominos** est composé de 120 dominos répartis sur plusieurs tables. C'est une installation qui rassemble les gens et qui fait socialiser. Elle est présentée en hiver seulement et seulement à Montréal.
 
