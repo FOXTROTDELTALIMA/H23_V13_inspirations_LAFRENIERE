@@ -2,8 +2,8 @@
 ## 28 février
 ## 1) Moi devant la statue de la place Square Philips 2) Les dominos lumineux et musicaux
 
-<img align="left" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
-<img align="right" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
+<img align="left" width="28%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/Square-Victoria.png">
+<img align="right" width="28%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
 
 [^1]<img align="left" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/4_Remonter_PhotoNicolasGouin.jpg">
 <img align="right" width="48%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
