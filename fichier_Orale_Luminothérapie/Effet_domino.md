@@ -19,7 +19,7 @@ Cette oeuvre a été créée en **2014** par _Geneviève Levasseur_ de **Ingrid 
 ## Mise en espace
 <img width="100%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/dominos-lum.png">
 [^2]<img width="40%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Orale_Luminoth%C3%A9rapie/Images/DominosWaveIngridIngrid.jpeg">
-Les dominos sont placés dans un grand espace, donc le nombre n'est pas limité. Bon, quand j'y suis allée, il n'y avait que 60 dominos. Par contre, les dominos n'étaient pas entassés. Il y avait deux grandes tables et une plus petite entre. De plus, les dominos étaient seulement orange et bleu.
+Les dominos sont placés dans un grand espace, donc le nombre n'est pas limité. Bon, quand j'y suis allée, il n'y avait que 60 dominos. Par contre, les dominos n'étaient pas entassés. Il y avait deux grandes tables et les dominos étaient seulement orange et bleu.
 
 ### Vidéo
 https://studio.youtube.com/video/BRhshL9cu64/edit
