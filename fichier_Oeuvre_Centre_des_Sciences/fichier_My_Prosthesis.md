@@ -4,3 +4,5 @@
 ## Type d'exposition
 L'exposition est permanente depuis 2015 et se trouve à l'intérieur du Centre des Sciences, au deuxième étage, dans la section Humain.
 <img align="center" width="60%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/moi.png">
+
+## Date de votre visite
