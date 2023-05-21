@@ -26,6 +26,7 @@ Ce jeu est seulement intéractif puisqu'il s'agit seulement d'un écran de taill
 L'installation est situé dans une grande pièce avec pleins d'autres jeux sur l'être Humain. Il y a deux écrans, un à côté de l'autre, installés sur un petite table avec des petits murs de chaque côté. Les écrans son élevés par des bases en métal. Ces bases contiennent toutes les composantes au bon fonctionnement du jeu.
 
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/moi.png">
+
 [^1]<img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/salle_expo_humain.jpg">
 <br/>
 
