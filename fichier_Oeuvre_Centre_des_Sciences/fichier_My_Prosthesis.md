@@ -20,7 +20,7 @@ _My Prosthesis_ est un mini jeu sur écran tactile ou il faut personnaliser notr
 ## Type d'installation
 Ce jeu est seulement intéractif puisqu'il s'agit seulement d'un écran de taille moyenne. Il n'y a pas de lunettes 3D, de casque de réalité virtuelle ou des sons entourant qui sont immersifs.
 ### Vidéo YouTube: démonstration
-[![Vidéo]https://www.youtube.com/watch?v=Pj3kEwPyzZ]
+[![Vidéo]https://www.youtube.com/watch?v=Pj3kEwPyzZk]
 
 ## Mise en espace
 L'installation est situé dans une grande pièce avec pleins d'autres jeux sur l'être Humain. Il y a deux écrans, un à côté de l'autre, installés sur un petite table avec des petits murs de chaque côté. Les écrans son élevés par des bases en métal. Ces bases contiennent toutes les composantes au bon fonctionnement du jeu.
