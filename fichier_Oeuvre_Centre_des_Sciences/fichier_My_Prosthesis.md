@@ -33,10 +33,10 @@ L'installation est situé dans une grande pièce avec pleins d'autres jeux sur l
 ## Composantes et techniques
 - Capteur
 - Écran
-
+- Boitier
 <img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/capteur.png">
 
-Les seules composantes qui étaient facile à photographier étaient le capteur dans le trou, en-dessous de l'écran, l'écran et le boîtier. Le petit capteur est celui qui fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. C'est là-dedans qu'il y a tous les fils et disque dur pour faire fonctionner l'écran. 
+Un des composantes est le capteur qui ce trouve dans le boitier, en-dessous de l'écran, l'écran et le boîtier. Le petit capteur est celui qui fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. C'est là-dedans qu'il y a tous les fils et disque dur pour faire fonctionner l'écran. 
 
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/Entrep%C3%B4t_fils.png">
 
