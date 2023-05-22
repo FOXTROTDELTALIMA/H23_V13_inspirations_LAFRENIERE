@@ -46,7 +46,7 @@ Un des composantes d'un des écrans est un tout petit capteur qui ce trouve dans
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/Entrep%C3%B4t_fils.png">
 
 ## Éléments nécessaires à la mise en oeuvre
-Tel que mentionné précédemment, le support des écrans est primordial au jeu, car il contient les fils pour les faire fonctionner. Les capteurs joue un rôle important car, il fait apparaître notre main à l'écran. Sans celui, l'expérience ne serait pas intéréssante. Pour un meilleur confort, il y a une chaise en face de l'écran et un mini-contrôleur caché dans l'écran.
+Tel que mentionné précédemment, le support des écrans est primordial au jeu, car il contient les fils pour les faire fonctionner. Le capteur joue un rôle important car, il fait apparaître notre main à l'écran. Sans celui-ci, l'expérience ne serait pas intéréssante. Pour un meilleur confort, il y a une chaise en face de l'écran et un mini-contrôleur caché dans l'écran.
 
 ## Expérience
 [![Au jeu!]https://www.youtube.com/shorts/P45syY-96Q8]
