@@ -31,11 +31,12 @@ L'installation est situé dans une grande pièce avec pleins d'autres jeux sur l
 <br/>
 
 ## Composantes et techniques
-### Capteur
+- Capteur
+- Écran
 
 <img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/capteur.png">
 
-La seule composante technique qui était facile à photographier était le capteur dans le trou, en-dessous de l'écran. Cette un tout petit capteur, caché plus loin dans le compartiment. C'est lui qui fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. C'est là-dedans qu'il y a tous les fils et disque dur pour faire fonctionner l'écran. 
+Les seules composantes qui étaient facile à photographier étaient le capteur dans le trou, en-dessous de l'écran, l'écran et le boîtier. Le petit capteur est celui qui fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. C'est là-dedans qu'il y a tous les fils et disque dur pour faire fonctionner l'écran. 
 
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/Entrep%C3%B4t_fils.png">
 
@@ -47,7 +48,7 @@ Tel que mentionné juste en haut, le support des écrans est primordial au jeu, 
 Le but est très simple. Rentrer son bras dans le trou et faire glisser les abiletés sur les doigts et l'avant-bras. L'écran est tactile, donc pas besoin de souris ou clavier pour naviguer. Cela rend le jeu plus simple. Et voîlà! La prothèse peut être visionnée en couleur et en action. Par la suite, tu peux recommencer ou retourner en arrière pour changer des fonctions sur la prothèse. Bien sûr, pour une expérience plus confortable, il y a une chaise où on peut s'assoir, le temps du jeu.
 
 ## Ce qui vous a plu et moins plu
-J'ai bien aimé mon expérience au Centre des Sciences. J'ai décourvert pleins d'informations intéréssantes et enrichissantes sur le centre et les installations et expositions. Pour ce qui est de _My Prosthesis_, considérant que c'est un jeu pour les enfants, il était très bien expliqué et amusant. Par contre, après la minute de personnalisation, j'étais tannée, parce qu'il n'y avait pas d'autres aspects de conception ou d'explications de qu'est-ce qu'une prothèse par exemple. Le jeu était d'une très courte durée, mais au moins, c'étais amusant de l'essayer. J'aurais bien aimé que ce jeu vienne avec des écouteurs, pour une expérience plus immersive. Autour de moi, c'était très bruyant. Normal puisque c'est une place pour les plus jeunes. Mais bon! Les écouteurs auraient rendu le jeu plus amusant. En jouant, je me sentais comme étant un scientifique qui expérimente des prothèses pour les rendre plus technologiques. C'est une jolie façon d'initier les enfants aux technologies d'aujourd'hui.
+J'ai bien aimé mon expérience au Centre des Sciences. J'ai décourvert pleins d'informations intéréssantes et enrichissantes sur le centre et les installations et expositions. Pour ce qui est de _My Prosthesis_, considérant que c'est un jeu pour les enfants, il était très bien expliqué et amusant. Par contre, après une minute, j'étais tannée, parce qu'il n'y avait pas assez d'aspects de personnalisation. J'aurais aimé qu'il y aille plus de profondeur dans la personnalisation de la prothèse. Le jeu était d'une très courte durée. En jouant, je me sentais comme étant un scientifique qui expérimente des prothèses pour les rendre plus technologiques. C'est une jolie façon d'initier les enfants aux technologies d'aujourd'hui.
 
 
 ## Références
