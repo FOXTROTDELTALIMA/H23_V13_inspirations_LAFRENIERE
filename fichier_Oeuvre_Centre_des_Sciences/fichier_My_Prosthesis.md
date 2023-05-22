@@ -12,7 +12,7 @@ L'exposition _Humain_ est permanente depuis 2015 et se trouve à l'intérieur du
 ## My Prosthesis
 <img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/moi.png">
 
-### L'exposition Humainet son contenu a été créée par GSM Project
+### L'exposition Humain et son contenu a été créée par GSM Project
 GSM Une firme fondée en 1958. Elle est multidisciplinaire, de design et de production, d'environnements immersifs par exemple. Elle a été complétée en 2017.
 
 ## Description de l'oeuvre
