@@ -13,7 +13,7 @@ L'exposition _Humain_ est permanente depuis 2015 et se trouve à l'intérieur du
 <img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/moi.png">
 
 ### L'exposition Humain et son contenu ont été créés par GSM Project
-GSM a été fondée en 1958. C'est une firme multidisciplinaire, de design et de production, d'environnements immersifs par exemple. L'exposition a été complétée en 2017.
+La firme GSM a été fondée en 1958. Elle est multidisciplinaire, de design et de production, d'environnements immersifs par exemple. L'exposition a été complétée en 2017.
 
 ## Description de l'oeuvre
 _My Prosthesis_ est un mini jeu sur écran tactile où il faut personnaliser notre prothèse. On peut y ajouter des fonctions comme un appareil photo, un laser, un cellulaire, une lampe de poche, ou même une clé USB, à la place des doigts et de l'avant-bras. Pour ce faire, il faut insérer son bras dans un compartiment en dessous de la table, où est situé l'écran du jeu. Dans ce compartiment, il y a un capteur accroché au plafond. Il va capter le bras pour que nous puissions voir et faire bouger notre main virtuelle. Un clavier avec toutes les fonctions va s'afficher et nous devons les faire glisser sur nos doigts et notre poignet. On peut annuler la personnalisation et la changer si cela ne nous plaît pas. Toutes les prothèses sont uniques et créatives. Quand nous avons terminé, nous pouvons voir notre prothèse en couleurs et en actions. Cela permet d'imaginer ce que les scientifiques pourraient faire pour les amputés de Guerre. Avec l'ajout de ces fonctions, les prothèses pourraient servir aux policiers. Voici ci-dessous une image des fonctions.
@@ -41,19 +41,19 @@ L'installation est située dans une grande salle avec plein de jeux sur l'être 
 - Boîtier
 <img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/capteur.png">
 
-Une des composantes d'un des écrans est un tout petit capteur qui ce trouve dans le boitier, en-dessous de l'écran. C'est lui qui scan et fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. Il contient l'arduino, un micro-contrôleur pour faire tout fonctionner.
+Une des composantes d'un des écrans est un tout petit capteur qui ce trouve dans le boîtier, en dessous de l'écran. il numérise et fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une fente pour y mettre une clé. Il contient l'arduino, un microcontrôleur pour faire tout fonctionner.
 
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/Entrep%C3%B4t_fils.png">
 
 ## Éléments nécessaires à la mise en oeuvre
-Tel que mentionné précédemment, le support des écrans est primordial au jeu, car il contient les fils pour les faire fonctionner. Le capteur joue un rôle important car, il fait apparaître notre main à l'écran. Sans celui-ci, l'expérience ne serait pas intéréssante. Pour un meilleur confort, il y a une chaise en face de l'écran et un mini-contrôleur caché dans l'écran.
+Tel que mentionné précédemment, le support des écrans est primordial au jeu, car il contient les fils pour les faire fonctionner. Le capteur joue un rôle important car, il fait apparaître notre main à l'écran. Sans celui-ci, l'expérience ne serait pas intéressante. Il y a une chaise en face de l'écran et un minicontrôleur caché dans l'écran.
 
 ## Expérience
 [![Au jeu!]https://www.youtube.com/shorts/P45syY-96Q8]
-Le but est très simple. Rentrer son bras dans le trou et faire glisser les habiletés sur les doigts et l'avant-bras virtuels. L'écran est tactile, donc nul besoin de souris ou de clavier pour naviguer. Cela rend le jeu plus simple. Et voilà! La prothèse peut être visionnée en couleur et en action. Par la suite,  on peut recommencer ou retourner en arrière pour changer des fonctions sur la prothèse. Bien sûr, pour une expérience plus confortable, il y a une chaise où on peut s'assoir le temps du jeu.
+Le but est très simple. Insérer son bras dans le trou et faire glisser les fonctions sur les doigts et l'avant-bras virtuels. L'écran est tactile donc, nul besoin de souris ou de clavier pour naviguer. Cela rend le jeu plus simple. Et voilà! La prothèse peut enfin être visualisée en couleur et en action. Par la suite,  on peut recommencer ou retourner en arrière pour changer des fonctions sur la prothèse. Bien sûr, pour une expérience plus confortable, il y a une chaise où on peut s'asseoir le temps du jeu.
 
 ## Ce qui vous a plu et moins plu
-J'ai bien aimé mon expérience au Centre des Sciences. J'ai décourvert pleins d'informations intéréssantes et enrichissantes sur le centre, les installations et les expositions. Pour ce qui est de _My Prosthesis_, considérant que c'est un jeu pour les enfants, il est très bien expliqué, simple et amusant. Par contre, après une minute, j'étais tannée, parce qu'il n'y avait pas assez d'aspects de personnalisation. J'aurais aimé qu'il y aille plus de profondeur dans la personnalisation de la prothèse. Le jeu était d'une très courte durée. En jouant, je me sentais comme étant un scientifique qui expérimente des prothèses pour les rendre plus technologiques. C'est une jolie façon d'initier les enfants aux technologies d'aujourd'hui.
+J'ai bien aimé mon expérience au Centre des Sciences. J'ai découvert des informations intéressantes et enrichissantes sur le centre, les installations et les expositions. Pour ce qui est de _My Prosthesis_, considérant que c'est un jeu pour les enfants, il est très bien expliqué, simple et amusant. Par contre, après une minute, j'étais tannée, parce qu'il n'y avait pas assez d'aspects de personnalisation. J'aurais aimé qu'il y aille plus de profondeur dans la personnalisation de la prothèse. Le jeu était d'une très courte durée. En jouant, je me sentais comme étant un scientifique qui expérimente des prothèses pour les rendre plus technologiques. C'est une jolie façon d'initier les enfants aux technologies d'aujourd'hui.
 
 
 ## Références
