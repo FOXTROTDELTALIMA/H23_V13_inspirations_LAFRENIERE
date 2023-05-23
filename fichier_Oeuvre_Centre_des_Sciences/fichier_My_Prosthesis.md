@@ -16,19 +16,19 @@ L'exposition _Humain_ est permanente depuis 2015 et se trouve à l'intérieur du
 GSM a été fondée en 1958. C'est une firme multidisciplinaire, de design et de production, d'environnements immersifs par exemple. L'exposition a été complétée en 2017.
 
 ## Description de l'oeuvre
-_My Prosthesis_ est un mini jeu sur écran tactile où il faut personnaliser notre prothèse. On peut y ajouter des fonctions comme un appareil photo, un laser, un cellulaire, une lampe de poche, ou même une clé USB, à la place des doigts et de l'avant-bras. Pour ce faire, il faut insérer son bras dans un compartiment en-dessous de la table, où est situé l'écran du jeu. Dans ce compartiment, il y a un capteur accroché au plafond. Il va capter le bras pour que nous puissions voir et faire bouger notre main virtuelle. Un clavier avec toutes les fonctions va s'afficher et nous devons les faire glisser sur nos doigts et poignet. On peut annuler la personnalisation et la changer si cela ne nous plaît pas. Toutes les prothèses sont uniques et créatives. Quand nous avons terminé, nous pouvons voir notre prothèse en couleurs et en actions. Cela permet d'imaginer ce que les scientifiques pourraient faire pour les amputés de Guerre. Avec l'ajout de ces fonctions, les prothèses pourraient servir aux policiers. Voici ci-dessous une image des fonctions.
+_My Prosthesis_ est un mini jeu sur écran tactile où il faut personnaliser notre prothèse. On peut y ajouter des fonctions comme un appareil photo, un laser, un cellulaire, une lampe de poche, ou même une clé USB, à la place des doigts et de l'avant-bras. Pour ce faire, il faut insérer son bras dans un compartiment en dessous de la table, où est situé l'écran du jeu. Dans ce compartiment, il y a un capteur accroché au plafond. Il va capter le bras pour que nous puissions voir et faire bouger notre main virtuelle. Un clavier avec toutes les fonctions va s'afficher et nous devons les faire glisser sur nos doigts et notre poignet. On peut annuler la personnalisation et la changer si cela ne nous plaît pas. Toutes les prothèses sont uniques et créatives. Quand nous avons terminé, nous pouvons voir notre prothèse en couleurs et en actions. Cela permet d'imaginer ce que les scientifiques pourraient faire pour les amputés de Guerre. Avec l'ajout de ces fonctions, les prothèses pourraient servir aux policiers. Voici ci-dessous une image des fonctions.
 
 <img align="center" width="40%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/abilet%C3%A9s.png">
 
 <img align="center" width="40%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/Explicationsjeu.png">
 
 ## Type d'installation
-Ce jeu est seulement intéractif puisqu'il s'agit seulement d'un écran de taille moyenne. Il n'y a pas de lunettes 3D, de casque de réalité virtuelle ou des sons entourants immersifs.
+Ce jeu est seulement interactif puisqu'il s'agit seulement d'un écran de taille moyenne. Il n'y a pas de lunettes 3D, de casque de réalité virtuelle, ou des sons immersifs.
 ### Vidéo YouTube: démonstration
 [![Vidéo]https://www.youtube.com/watch?v=Pj3kEwPyzZk]
 
 ## Mise en espace
-L'installation est situé dans une grande pièce avec pleins d'autres jeux sur l'être Humain. Il y a deux écrans, un à côté de l'autre, installés sur une petite table avec des petits murs de chaque côté. Les écrans sont élevés par des bases en métal. Ces bases contiennent toutes les composantes nécéssaires au bon fonctionnement du jeu. Tous les éléments sont solides et simples à utiliser, car ils s'adressent à des enfants.
+L'installation est située dans une grande salle avec plein de jeux sur l'être humain. Il y a deux écrans installés, un à côté de l'autre, sur une petite table avec de petits murs de chaque côté. Les écrans sont élevés par des bases en métal. Ces bases contiennent toutes les composantes nécessaires au bon fonctionnement du jeu. Tous les éléments sont solides et simples à utiliser, car ils s'adressent à des enfants.
 
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/moi.png">
 
@@ -41,7 +41,7 @@ L'installation est situé dans une grande pièce avec pleins d'autres jeux sur l
 - Boîtier
 <img align="center" width="50%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/capteur.png">
 
-Un des composantes d'un des écrans est un tout petit capteur qui ce trouve dans le boitier, en-dessous de l'écran. C'est lui qui scan et fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. Il contient l'arduino, un micro-contrôleur pour faire tout fonctionner.
+Une des composantes d'un des écrans est un tout petit capteur qui ce trouve dans le boitier, en-dessous de l'écran. C'est lui qui scan et fait apparaître notre bras virtuel. Sur le support de l'écran, il y a une ouverture pour y mettre un clé. Il contient l'arduino, un micro-contrôleur pour faire tout fonctionner.
 
 <img align="center" width="30%" height="10%" src="https://github.com/FOXTROTDELTALIMA/H23_V13_inspirations_LAFRENIERE/blob/main/fichier_Oeuvre_Centre_des_Sciences/Images/Entrep%C3%B4t_fils.png">
 
